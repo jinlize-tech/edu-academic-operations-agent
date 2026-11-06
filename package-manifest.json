@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-AG-011",
+  "repository_name": "edu-academic-operations-agent",
+  "product_type": "Agent",
+  "version": "1.0.0",
+  "package_path": "dist/edu-academic-operations-agent-v1.0.0.zip",
+  "sha256": "74D5FE26FA3CC06F9EC0C0C24D4E50876F3A5404A24BEC7EE7F8CF5954D0D0D8",
+  "bytes": 12032,
+  "entries": [
+    "edu-academic-operations-agent/.codebuddy-plugin/plugin.json",
+    "edu-academic-operations-agent/agents/edu-academic-operations-agent.md",
+    "edu-academic-operations-agent/avatars/expert.png",
+    "edu-academic-operations-agent/README.md"
+  ],
+  "built_at": "2026-11-06T22:20:28.3096689+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}

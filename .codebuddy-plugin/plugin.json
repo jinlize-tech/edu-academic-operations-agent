@@ -1,0 +1,63 @@
+{
+  "name": "edu-academic-operations-agent",
+  "version": "1.0.0",
+  "description": "Multi-step education operations assistant for Academic Operations Agent.",
+  "author": {
+    "name": "广州金励泽科技服务有限公司",
+    "email": "270911570+yangsongbaofu-dot@users.noreply.github.com"
+  },
+  "agents": [
+    "./agents/edu-academic-operations-agent.md"
+  ],
+  "expertType": "agent",
+  "agentName": "edu-academic-operations-agent",
+  "displayName": {
+    "en": "Academic Operations Agent",
+    "zh": "教务运营助手"
+  },
+  "profession": {
+    "en": "Academic Operations Agent",
+    "zh": "教务运营专家"
+  },
+  "displayDescription": {
+    "en": "A multi-step education agent for Academic Operations Agent, producing reviewable plans with human checkpoints.",
+    "zh": "提供教务运营助手专业协作，完成多步骤分析、方案设计与复盘，输出可执行成果并保留人工确认。"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "15-Education",
+  "defaultInitPrompt": {
+    "en": "Help me complete Academic Operations Agent.",
+    "zh": "请帮我完成一次教务运营助手"
+  },
+  "plugin": "edu-academic-operations-agent",
+  "tags": [
+    {
+      "en": "Academic Operations",
+      "zh": "教务运营"
+    },
+    {
+      "en": "Campus Management",
+      "zh": "校区管理"
+    },
+    {
+      "en": "Education",
+      "zh": "教培机构"
+    }
+  ],
+  "quickPrompts": [
+    {
+      "en": "Help me complete Academic Operations Agent.",
+      "zh": "请帮我完成一次教务运营助手"
+    },
+    {
+      "en": "Diagnose my supplied education-business information and propose next steps.",
+      "zh": "请诊断我提供的业务资料并给出下一步行动"
+    },
+    {
+      "en": "Generate 教务诊断、优先级、30天行动方案、会议议程、指标和升级项 with risks and open questions.",
+      "zh": "请生成教务诊断、优先级、30天行动方案、会议议程、指标和升级项，并列出风险与待确认事项"
+    }
+  ],
+  "homepage": "https://github.com/jinlize-tech/edu-academic-operations-agent",
+  "license": "Apache-2.0"
+}
